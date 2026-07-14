@@ -1,4 +1,3 @@
-import gsap from "gsap";
 import { openingHours, socials } from "../../constants";
 
 function Contact() {
